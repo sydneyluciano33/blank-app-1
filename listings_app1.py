@@ -1,7 +1,7 @@
 import streamlit as st # pyright: ignore[reportMissingImports]
 import pandas as pd # pyright: ignore[reportMissingImports]
 import altair as alt# pyright: ignore[reportMissingImports]
-from vega_datasets import data# pyright: ignore[reportMissingImports]
+#from vega_datasets import data# pyright: ignore[reportMissingImports]
 import json 
 import pydeck as pdk# pyright: ignore[reportMissingImports]
 import numpy as np# pyright: ignore[reportMissingImports]
